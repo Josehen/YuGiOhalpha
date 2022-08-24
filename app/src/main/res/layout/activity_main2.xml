@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/download"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:layout_width="377dp"
+            android:layout_height="97dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#45424242"
+            android:gravity="center"
+            android:text="CARTAS"
+            android:textColor="#FFFFFF"
+            android:textSize="48sp" />
+
+        <TextView
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:background="#45424242"
+            android:text="Melhores Monstros"
+            android:textColor="#FFFFFF" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/buttonm1"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/blueeyesewitedragon" />
+
+                <ImageButton
+                    android:id="@+id/buttonm2"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/amajorupset" />
+
+                <ImageButton
+                    android:id="@+id/buttonm3"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/thunderkingraioh" />
+
+                <ImageButton
+                    android:id="@+id/buttonm4"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/eagleshark" />
+
+                <ImageButton
+                    android:id="@+id/buttonm5"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/redeyesbdragon" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:background="#45424242"
+            android:text="Melhores Magias"
+            android:textColor="#FFFFFF" />
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/buttonma1"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/_7" />
+
+                <ImageButton
+                    android:id="@+id/buttonma2"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/calledbythegrave" />
+
+                <ImageButton
+                    android:id="@+id/buttonma3"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/demiseoftheland" />
+
+                <ImageButton
+                    android:id="@+id/buttonma4"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/enemycontroller" />
+
+                <ImageButton
+                    android:id="@+id/buttonma5"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/galaxycyclone" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:background="#45424242"
+            android:text="Melhores Armadilhas"
+            android:textColor="#FFFFFF" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/buttonar1"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/amajorupset" />
+
+                <ImageButton
+                    android:id="@+id/buttonar2"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/antimagicprism" />
+
+                <ImageButton
+                    android:id="@+id/buttonar3"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/backupsoldier" />
+
+                <ImageButton
+                    android:id="@+id/buttonar4"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/ninjitsuartoffreezing" />
+
+                <ImageButton
+                    android:id="@+id/buttonar5"
+                    android:layout_width="130dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/dusttornado" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+    </LinearLayout>
+</ScrollView>

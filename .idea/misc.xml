@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/drawable/ic_backgroundyu_adobe_express.xml" value="0.206" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/drawable/ic_blueeyeswhitedragon_ldb_pt_ur_1e_adobe_express.xml" value="0.206" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityar1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityar2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityar3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityar4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityar5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitym1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitym2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitym3.xml" value="0.22" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitym4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitym5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityma1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityma2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityma3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityma4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activityma5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitymorear.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitymorem.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitymorema.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_activitysplash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Aluno/Downloads/YuGiOh/app/src/main/res/layout/activity_main_splash.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
